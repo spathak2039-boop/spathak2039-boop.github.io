@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spathak2039-boop.github.io/sitemap.xml
